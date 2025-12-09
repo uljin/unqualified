@@ -3,11 +3,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&display=swap");
 @import url('//cdn.jsdelivr.net/gh/sunghyunzz/eulyoo1945/eulyoo1945.css');
 
-/*－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
-
-全ページ共通
-
-－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－*/
 html {
   font-size: 70%;
 }
@@ -42,7 +37,7 @@ p {
 }
 
 a {
-  color: #000;
+  color: #2E2E2E;
 }
 
 .button {
@@ -192,7 +187,7 @@ footer section {
 .story img {
   width: 100%;
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 120px;
 }
 
 
@@ -205,5 +200,6 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
 
 
