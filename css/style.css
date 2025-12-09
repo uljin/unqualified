@@ -218,6 +218,29 @@ footer {
   padding: 20px;
 }
 
+.book {
+  margin-bottom: 80px;
+}
+
+.book .title {
+  font-size: 1.7rem;
+  font-weight: 600;
+  margin: 6px 0 14px;
+  letter-spacing: 1px;
+}
+
+.book img {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+}
+
+.book .done {
+  margin-bottom: 4px;
+}
+
 
 
 
