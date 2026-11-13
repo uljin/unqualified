@@ -29,7 +29,8 @@ body {
 
 /* 텍스트 기본 */
 p {
-  text-align: justify;
+  text-align: left;
+  word-break: keep-all;
 }
 
 a {

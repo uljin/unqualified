@@ -1,7 +1,7 @@
-User‑agent: *
+User-agent: *
 Disallow: /
 
-User‑agent: GPTBot
+User-agent: GPTBot
 Disallow: /
-User‑agent: AnthropicBot
+User-agent: AnthropicBot
 Disallow: /
